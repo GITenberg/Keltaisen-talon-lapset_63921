@@ -1,5 +1,5 @@
 _repo: Keltaisen-talon-lapset_63921
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Mother Carey's chickens. Finnish
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '45405'
     url: http://www.gutenberg.org/2009/agents/45405
     wikipedia: https://fi.wikipedia.org/wiki/Toini_Swan
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wiggin, Kate Douglas Smith
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/266
     wikipedia: https://en.wikipedia.org/wiki/Kate_Douglas_Wiggin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63921#Keltaisen-talon-lapset
 gutenberg_issued: '2020-11-30'
 gutenberg_type: Text
 identifiers:
