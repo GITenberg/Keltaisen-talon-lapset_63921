@@ -1,0 +1,41 @@
+_repo: Keltaisen-talon-lapset_63921
+_version: 0.0.1
+alternative_title: Mother Carey's chickens. Finnish
+contributor:
+  translator:
+    agent_name: Swan, Toini
+    birthdate: 1870
+    deathdate: 1949
+    gutenberg_agent_id: '45405'
+    url: http://www.gutenberg.org/2009/agents/45405
+    wikipedia: https://fi.wikipedia.org/wiki/Toini_Swan
+creator:
+  author:
+    agent_name: Wiggin, Kate Douglas Smith
+    aliases:
+    - Smith, Kate Douglas
+    - Riggs, George Christopher, Mrs.
+    - Riggs, Kate Douglas Smith Wiggin
+    - Wiggin, Samuel Bradley, Mrs.
+    birthdate: 1856
+    deathdate: 1923
+    gutenberg_agent_id: '266'
+    url: http://www.gutenberg.org/2009/agents/266
+    wikipedia: https://en.wikipedia.org/wiki/Kate_Douglas_Wiggin
+description: ''
+gutenberg_issued: '2020-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63921'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Families -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Mother and child -- Fiction'
+- GITenberg
+title: Keltaisen talon lapset
+url: http://www.gutenberg.org/ebooks/63921
